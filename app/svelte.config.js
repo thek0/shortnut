@@ -14,7 +14,6 @@ const config = {
 			pages: "../dist/www",
 			assets: "../dist/www",
 		}),
-		trailingSlash: "always",
 	}
 };
 
